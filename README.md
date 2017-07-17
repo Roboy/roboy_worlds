@@ -38,10 +38,10 @@ Folder Structure:
     - model.sdf<br />
     - model.config<br />
 	 - /meshes<br />
-        -visual
-          - VIS_linkX.dae<br />
-	        - ...<br />
-	      - /collision<br />
-	        - COL_linkX.dae<br />
-	        - ...<br />
-	      - /CAD
+         - visual
+           - VIS_linkX.dae<br />
+	       - ...<br />
+	   - /collision<br />
+	     - COL_linkX.dae<br />
+	     - ...<br />
+	   - /CAD
